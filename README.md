@@ -1,2 +1,6 @@
-# DeepLearning-models-Implemetation-from-scratch
-This is a repo of ipynb files that implement basic ML&DL models and functions from scratch.
+# MachineLearning-DeepLearning
+This is a repo contains the follwings:
+1. EDA of various datasets
+2. Implementation of basic machine learning algorithm from scratch
+3. Implementation of basic deep learning algorithm from scratch
+4. Codes for various tasks which need deeplearning based approach.
